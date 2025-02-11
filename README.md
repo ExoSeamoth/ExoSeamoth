@@ -34,5 +34,5 @@
 
 ### Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExoSeamoth&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoSeamoth&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExoSeamoth&show_icons=true&theme=dark&locale=ru)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoSeamoth&layout=compact&theme=dark&locale=ru)
