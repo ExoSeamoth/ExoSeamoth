@@ -1,4 +1,4 @@
-<h1 align="center"><img width="65%" src=Assets/welcome_badge.png/></h1>
+<h1 align="center"><img src=Assets/welcome_badge.png/></h1>
 <img align="right" alt="" height="165"  src="https://github-readme-stats.vercel.app/api?username=ExoSeamoth&show_icons=true&theme=apprentice&count_private=true&rank_icon=github"/>
 
 ### 👨🏻‍💻 Ilya | C# Developer
