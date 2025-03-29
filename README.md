@@ -1,5 +1,4 @@
 <h1 align="center"><img src=Assets/welcome_badge.png/></h1>
-<img align="right" alt="" height="165"  src="https://github-readme-stats.vercel.app/api?username=ExoSeamoth&show_icons=true&theme=apprentice&count_private=true&rank_icon=github"/>
 
 ### 👨🏻‍💻 Ilya | C# Developer
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:exoseamoth@gmail.com)](mailto:exoseamoth@gmail.com)
@@ -13,6 +12,8 @@
 - I optimize not only code, but also user experience
 - I combine graphic aesthetics with reinforced concrete logic
 - I believe that the ideal UI is when everything you need is at hand, and nothing extra
+
+<img align="right" alt="" height="165"  src="https://github-readme-stats.vercel.app/api?username=ExoSeamoth&show_icons=true&theme=apprentice&count_private=true&rank_icon=github"/>
 
 ```csharp
 public sealed class MyStack {
