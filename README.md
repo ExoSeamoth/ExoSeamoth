@@ -8,10 +8,10 @@
 
 👋 I'm a junior C# enthusiast who turns ideas into elegant solutions. I specialize in creating desktop applications where logic, performance, and intuitive UX are important.
 
-- I build clean architecture so that applications scale like a symphony
-- I optimize not only code, but also user experience
-- I combine graphic aesthetics with reinforced concrete logic
-- I believe that the ideal UI is when everything you need is at hand, and nothing extra
+- I build maintainable systems that scale smoothly
+- I focus on both efficient code and intuitive user experiences
+- I balance visual design with functional foundations
+- I aim for interfaces that feel simple, helpful, and clutter-free
 
 <img align="right" alt="" height="165"  src="https://github-readme-stats.vercel.app/api?username=ExoSeamoth&show_icons=true&theme=apprentice&count_private=true&rank_icon=github"/>
 
