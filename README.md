@@ -21,11 +21,12 @@ public sealed class MyStack {
     string[] Languages = ["C#", "XML", "SQL"];
   
     // Frameworks
-    string[] Tools = { 
+    string[] Tools =
+    [ 
         "Avalonia UI", 
         "ASP.NET Core", 
         "Entity Framework Core", 
         "Dependency Injection",
-    };
+    ];
 }
 ```
