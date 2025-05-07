@@ -18,7 +18,7 @@
 ```csharp
 public sealed class MyStack {
     // Core
-    string[] Languages = ["C#", "SQL", "AvaloniaUI"];
+    string[] Languages = ["C#", "XML", "SQL"];
   
     // Frameworks
     string[] Tools = { 
